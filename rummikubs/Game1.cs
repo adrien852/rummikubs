@@ -49,7 +49,6 @@ namespace rummikubs
                 new Kub(2,"B",true),
                 new Kub(3,"B",true),
                 new Kub(4,"G",true),
-                new Kub(7,"Y",true),
                 new Kub(7,"B",true),
                 new Kub(7,"R",true),
             };
